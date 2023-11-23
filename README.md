@@ -25,6 +25,10 @@
 23. Benami Transactions (Prohibition) Act
 24. Hindu Minority and Guardianship Act
 
+## Other Miscellaneous acts
+1. Motor vehicles act
+2. Consumer protection act
+
 
 - High level provisions of each of the statutes
 - Conceptual detailed clarity on Contract, ToPA, SoGA, Evidence and Specific Relief
