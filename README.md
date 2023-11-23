@@ -28,6 +28,8 @@
 ## Other Miscellaneous acts
 1. Motor vehicles act
 2. Consumer protection act
+3. Indian Penal Code
+4. Criminal Procedure code
 
 
 - High level provisions of each of the statutes
