@@ -24,3 +24,8 @@
 22. Indian Trusts Act
 23. Benami Transactions (Prohibition) Act
 24. Hindu Minority and Guardianship Act
+
+
+- High level provisions of each of the statutes
+- Conceptual detailed clarity on Contract, ToPA, SoGA, Evidence and Specific Relief
+- Case Laws
